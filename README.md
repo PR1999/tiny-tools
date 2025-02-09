@@ -1,5 +1,6 @@
 # tiny-tools
-###shellcode tools
+
+### Shellcode tools
 build.sh => script to create a normal binary and one for debugging
 7byteshell => 7 bytes to open a file, as long as the filename is ;
 server => can handle get requests for files, probably
