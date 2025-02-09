@@ -1,5 +1,10 @@
 # tiny-tools
-## ModTool
+###shellcode tools
+build.sh => script to create a normal binary and one for debugging
+7byteshell => 7 bytes to open a file, as long as the filename is ;
+server => can handle get requests for files, probably
+
+### ModTool
 Communicate with devices using Modbus TCP/IP  
 How to use:  
     $*python ModTool.py ip [options]*  
